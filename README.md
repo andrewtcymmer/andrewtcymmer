@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Andrew.
+
+I'm an engineer who builds APIs for web apps. Every day I do something to improve my software engineering practices, and I go out of my way to share them with every team I work with. I've been doing this daily for over fourteen years. I prefer compiled languages over interpreted ones; maybe due to the fact that C++ was my first language and first love in technology. I am interested in writing more Rust.
 
 <!--
 **andrewtcymmer/andrewtcymmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
